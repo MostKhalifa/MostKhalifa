@@ -9,10 +9,14 @@ I'm a full-stack developer who loves building modern web apps and solving real-w
 - 📫 How to reach me: [mostafa.mohamed360@gmail.com](mailto:mostafa.mohamed360@gmail.com)
 
 ## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=java)
+![Springboot](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=redis)
 
 ## 📊 GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostKhalifa&show_icons=true&theme=radical)
