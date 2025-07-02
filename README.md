@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Mostafa Khalifa!
 
+
 ## 🚀 About Me
 I'm a recent graduate with a Bachelor's in Computer Scienc with a strong interest in backend development and system design. I enjoy building things from the ground up — from designing APIs to managing databases and connecting everything with clean, maintainable code.
 
@@ -33,6 +34,20 @@ I’m here to get better: one bug, one build, and one breakthrough at a time. Le
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/-Loki-0A0A0A?style=for-the-badge&logo=grafana&logoColor=lightgrey)
 
+## 🚀 Top Projects
+
+#### 🔹 [**Notion Replica**](https://github.com/YousseFahmy/NotionReplica)
+A full backend to replicate the app 'Notion'.    
+`Tech Stack:` Java · Springboot · MongoDB · Docker · Kubernetes · NginX · Kafka · Grafana · Loki
+
+
+#### 🔹 [**Spring Boot REST API**](https://github.com/MostKhalifa/SSSInternship)
+A complete professional level backend for CRUD functionality and connection to a cart microservice while maintaining security using JWT. Developed during my internship.  
+`Tech Stack:` Java · Spring Boot · MySQL · MongoDB · Redis · Postman · Swagger · Docker
+
+#### 🔹 [**Courses Website**](https://github.com/MostKhalifa/Error404)
+A fully functional and responsive fullstack website with multiple roles (Trainee - Instructor - Admin).  
+`Tech Stack:` Javascript · MERN Stack · HTML · CSS
 
 <!-- 
 ## 📊 GitHub Stats
@@ -41,3 +56,5 @@ I’m here to get better: one bug, one build, and one breakthrough at a time. Le
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mostafa-khalifa49)
+
+
