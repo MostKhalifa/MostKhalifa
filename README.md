@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a recent graduate with a Bachelor's in Computer Scienc with a strong interest in backend development and system design. I enjoy building things from the ground up — from designing APIs to managing databases and connecting everything with clean, maintainable code.
+I'm a student at University of Bonn, pursuing a Masters Degree in Computer Science, with a strong interest in backend development and system design. I enjoy building things from the ground up — from designing APIs to managing databases and connecting everything with clean, maintainable code.
 
 During my internships, I worked with Java and Spring Boot in an agile environment, gaining real-world experience in writing production-level backend services.
 
